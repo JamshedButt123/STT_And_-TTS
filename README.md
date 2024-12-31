@@ -1,7 +1,3 @@
-Here's the **complete README** with the updates included:  
-
----
-
 # 🗣️ **Text-to-Speech and Audio Transcription Demo**  
 
 This repository contains two scripts demonstrating **Text-to-Speech (TTS)** and **Audio Transcription** functionalities using 🐸 **TTS library** and **OpenAI's Whisper model**.  
