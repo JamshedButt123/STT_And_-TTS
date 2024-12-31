@@ -16,7 +16,6 @@ This repository contains two scripts demonstrating **Text-to-Speech (TTS)** and 
 ## ⚙️ **Setup and Installation**  
 
 ### Prerequisites  
-- **Operating System:** Ubuntu 18.04 or later (recommended)  
 - **Python Version:** Python ≥ 3.9  
 
 ### Install Required Libraries  
