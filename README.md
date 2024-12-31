@@ -60,4 +60,3 @@ jupyter notebook whisper_Audio_small.ipynb
 
 - Ensure Python dependencies are installed correctly.  
 - Verify models are downloaded and accessible locally.  
-- For GPU acceleration, ensure `torch` is installed with CUDA support.  
