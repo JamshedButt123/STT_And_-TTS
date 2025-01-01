@@ -74,3 +74,7 @@ jupyter notebook Whisper_large_v3_turbo_using_Groq.ipynb
 
 - Ensure Python dependencies are installed correctly.  
 - Verify models are downloaded and accessible locally.
+## 📈 **Performance Metrics**
+
+Below is the Word Error Rate (WER) and Character Error Rate (CER) of the Whisper large model on Common Voice 15 and FLEURS datasets:
+![Whisper image](https://github.com/JamshedButt123/STT_And_TTS/blob/main/n-openai-whisper-new-model-large.png)  
